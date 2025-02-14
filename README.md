@@ -1,5 +1,5 @@
 **<p align="center">Nice to meet you, I'm Matthieu Vagnon.</p>**
-<p align="center"><kbd>Front-End Engineer</kbd> <kbd>UI/X Designer</kbd> <kbd>Freelance</kbd></p>
+<p align="center"><kbd>Front-End Engineer</kbd> <kbd>UI Designer</kbd></p>
 
 ---
 
