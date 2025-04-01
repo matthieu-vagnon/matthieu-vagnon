@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://mvagnon.dev" target="_blank">Visit my website</a>
+<a align="center" href="https://mvagnon.dev" target="_blank">Visit my website</a>
 
 ---
 
