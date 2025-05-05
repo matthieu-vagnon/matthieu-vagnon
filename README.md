@@ -1,6 +1,6 @@
 **<p align="center">Nice to meet you, I'm Matthieu Vagnon.</p>**
 *<p align="center">Working independently.</p>*
-<p align="center"><kbd>Front-End Engineer</kbd> <kbd>Digital Designer</kbd> <kbd>React.js</kbd> <kbd>Next.js</kbd></p>
+<p align="center"><kbd>Front-End Engineer</kbd> <kbd>UI/UX Designer</kbd> <kbd>Project Manager</kbd> <kbd>React.js</kbd> <kbd>Next.js</kbd></p>
 
 ---
 
