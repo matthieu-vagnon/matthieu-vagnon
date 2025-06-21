@@ -1,10 +1,10 @@
 **<p align="center">Nice to meet you, I'm Matthieu Vagnon.</p>**
-*<p align="center">Working independently.</p>*
-<p align="center"><kbd>Front-End Engineer</kbd> <kbd>UI/UX Designer</kbd> <kbd>Project Manager</kbd> <kbd>React.js</kbd> <kbd>Next.js</kbd></p>
+*<p align="center">Building cutting-edge experiences from Himeji, Japan since 2021 🇯🇵</p>*
+<p align="center"><kbd>UX-Driven Front-End Engineer</kbd> <kbd>React Expert</kbd> <kbd>Next.js Expert</kbd> <kbd>Designer</kbd></p>
 
 ---
 
-<a align="center" href="https://mvagnon.dev" target="_blank">Visit my website</a>
+<a align="center" href="https://mvagnon.dev" target="_blank">Visit my Web Portfolio</a>
 
 ---
 
