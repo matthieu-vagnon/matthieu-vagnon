@@ -1,6 +1,6 @@
 **<p align="center">Nice to meet you, I'm Matthieu Vagnon.</p>**
 *<p align="center">Building cutting-edge web experiences, since 2021 🇫🇷🇨🇭🇯🇵</p>*
-<p align="center"><kbd>Full-Stack Engineer</kbd> <kbd>Front-End Specialist</kbd> <kbd>UI/UX Designer</kbd> <kbd>AI SaaS Specialist</kbd></p>
+<p align="center"><kbd>Full-Stack Developer</kbd> <kbd>UI/UX Designer</kbd> <kbd>AI Implementer</kbd></p>
 
 ---
 
