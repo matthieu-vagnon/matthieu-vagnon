@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://cal.com/matthieu-vagnon">Click here to schedule a meeting for whatever reason</a>
+<a target="_blank" href="https://cal.com/matthieu-vagnon">Click here to schedule a meeting for whatever reason</a>
 
 </div>
 
