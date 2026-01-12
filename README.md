@@ -9,11 +9,3 @@
 <a target="_blank" href="https://cal.com/matthieu-vagnon">Click here to schedule a meeting for whatever reason</a>
 
 </div>
-
----
-
-<div align="center">
-
-![matthieu-vagnon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieu-vagnon&theme=graywhite&show_icons=true&hide_border=true)
-  
-</div>
