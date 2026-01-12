@@ -1,12 +1,12 @@
 **<p align="center">Nice to meet you, I'm Matthieu Vagnon.</p>**
-*<p align="center">Building cutting-edge web & mobile experiences, since 2021 🇫🇷🇨🇭🇯🇵</p>*
-<p align="center"><kbd>Full-Stack Developer</kbd> <kbd>UI/UX Designer</kbd> <kbd>AI Implementer</kbd></p>
+*<p align="center">Building cutting-edge and scalable apps and SaaS.</p>*
+<p align="center"><kbd>React Developer</kbd> <kbd>Node Developer</kbd> <kbd>Software Architect</kbd></p>
 
 ---
 
 <div align="center">
 
-<a href="https://mvagnon.dev">Visit my Web Portfolio</a> or <a href="https://cal.com/matthieu-vagnon">Schedule a Meeting</a>
+<a href="https://cal.com/matthieu-vagnon">Schedule a Meeting</a>
 
 </div>
 
