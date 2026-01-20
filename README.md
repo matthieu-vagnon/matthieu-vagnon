@@ -14,6 +14,7 @@
 - Google Stitch
 - Claude Code
 - Cursor
+- Napkin.ai
 
 # 💬 Languages
 - English (fluent, TOEIC 900/990)
