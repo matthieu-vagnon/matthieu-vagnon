@@ -9,22 +9,30 @@
 - End-to-end ownership: design → production
 - Product- and business-oriented
 
-# 🧠 My (dear) workmates
+# 🧠 My (dear) AI workmates
 
-- Google Stitch
-- Claude Code
-- Cursor
-- Napkin.ai
+| Tool | Usage |
+| --- | --- |
+| Google Stitch | UI conception. |
+| Claude Code | AI agent in terminal (main agent). |
+| Cursor | AI agent in IDE (secondary agent). |
+| Napkin.ai | Illustrations in the docs. |
 
 # 💬 Languages
-- English (fluent, TOEIC 900/990)
-- Japanese (conversational)
-- French (native)
+
+| Language | Level |
+| --- | --- |
+| English | Fluent (TOEIC 900/990) |
+| French | Native |
+| Japanese | conversational |
 
 # 🏆 Certifications
-- Meta — React
-- Google — UI/UX
-- IKM — JavaScript
+
+| Provider | Certification | Result |
+| --- | --- | ---|
+| IKM TeckChek | JavaScript Proficiency Profile | 96/100 |
+| Google | Build Dynamic User Interfaces (UI) for Websites | 90% |
+| Meta | Advanced React | 97% |
 
 # ☎️ Contact Me
 - By email: mvagnon@icloud.com
