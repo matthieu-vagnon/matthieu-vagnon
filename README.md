@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 Profile
-- Senior Software Engineer (TypeScript)
+- Senior Software Engineer
 - End-to-end ownership: design → production
 - (Product && Business)-oriented
 
