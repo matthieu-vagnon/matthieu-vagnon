@@ -6,29 +6,27 @@
 
 ---
 
-# 👨‍💻 Profile
+## 👨‍💻 Profile
 - Senior Software Engineer
 - End-to-end ownership: design → production
 - Product- and business-oriented
 
-# 🧠 My (dear) AI workmates
+## 🔗 My Apps
 
-| Tool | Usage |
+| App | Repository | Model | Description |
+| --- | --- | --- | --- |
+[Personal Dashboard](https://dashboard.mvagnon.dev) | Private | Subscription | An AI SaaS built to help freelancers and candidates build a strong audience on LinkedIn and find new opportunities. |
+
+## 🧠 My (dear) AI workmates
+
+| Tool | Description |
 | --- | --- |
 | Google Stitch | UI conception. |
 | Claude Code | AI agent in terminal (main agent). |
 | Cursor | AI agent in IDE (secondary agent). |
-| Napkin.ai | Illustrations in the docs. |
+| Napkin.ai | Illustrations in documentations. |
 
-# 💬 Languages
-
-| Language | Level |
-| --- | --- |
-| English | Fluent (TOEIC 900/990) |
-| French | Native |
-| Japanese | conversational |
-
-# 🏆 Certifications
+## 🏆 Certifications
 
 | Provider | Certification | Result |
 | --- | --- | ---|
@@ -36,7 +34,7 @@
 | Google | Build Dynamic User Interfaces (UI) for Websites | 90% |
 | Meta | Advanced React | 97% |
 
-# ☎️ Contact Me
+## ☎️ Contact Me
 - By email: mvagnon@icloud.com
 - By phone: +81 70 9099 7140
 - On LinkedIn
