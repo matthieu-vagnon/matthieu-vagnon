@@ -9,6 +9,12 @@
 - End-to-end ownership: design → production
 - Product- and business-oriented
 
+# 🧠 My (dear) workmates
+
+- Google Stitch
+- Claude Code
+- Cursor
+
 # 💬 Languages
 - English (fluent, TOEIC 900/990)
 - Japanese (conversational)
