@@ -15,7 +15,7 @@
 
 | App | Repository | Model | Description |
 | --- | --- | --- | --- |
-[Personal Dashboard](https://dashboard.mvagnon.dev) | Private | Subscription | An AI SaaS built to help freelancers and candidates build a strong audience on LinkedIn and find new opportunities. |
+| [Personal Dashboard](https://dashboard.mvagnon.dev) | 🫣 Private | Subscription | An AI SaaS built to help freelancers and candidates build a strong audience on LinkedIn and find new opportunities. |
 
 ## 🧠 My (dear) AI workmates
 
