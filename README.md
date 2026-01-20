@@ -1,12 +1,21 @@
-**<p align="center">Nice to meet you, I'm Matthieu Vagnon.</p>**
-*<p align="center">Building cutting-edge and scalable apps and SaaS.</p>*
-<p align="center"><kbd>React Developer</kbd> <kbd>Node Developer</kbd> <kbd>Software Architect</kbd></p>
-<p align="center"><kbd>French 🇫🇷</kbd> <kbd>English 🇺🇸</kbd> <kbd>Japanese 🇯🇵</kbd></p>
-
----
-
 <div align="center">
-
-<a target="_blank" href="https://cal.com/matthieu-vagnon">Click here to schedule a meeting for whatever reason</a>
-
+  <img height="150" src="https://i.pinimg.com/originals/e9/26/16/e9261611196ebd98b2d76ab0627699a0.gif"  />
 </div>
+
+<p align="center"><i><b>Hi, and welcome to my GitHub!</b></i></p>
+<p align="center">Grab a coffee and see how I contribute to this world.</p>
+
+# 👨‍💻 Profile
+- Senior Software Engineer
+- End-to-end ownership: design → production
+- Product- and business-oriented
+
+# 💬 Languages
+- English (fluent, TOEIC 900/990)
+- Japanese (conversational)
+- French (native)
+
+# 🏆 Certifications
+- Meta — React
+- Google — UI/UX
+- IKM — JavaScript
