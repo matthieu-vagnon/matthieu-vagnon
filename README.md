@@ -18,3 +18,9 @@
 - Meta — React
 - Google — UI/UX
 - IKM — JavaScript
+
+# ☎️ Contact Me
+- By email: mvagnon@icloud.com
+- By phone: +81 70 9099 7140
+- On LinkedIn
+- By video call: cal.com/matthieu-vagnon
