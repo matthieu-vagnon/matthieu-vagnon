@@ -6,7 +6,7 @@
 Grab a coffee and see how I contribute to the society.</p>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats-matthieu-vagnons-projects.vercel.app/api/top-langs/?username=matthieu-vagnon&layout=compact&hide_title=true&theme=swift&border_radius=5&hide_border=true&langs_count=4" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-matthieu-vagnons-projects.vercel.app/api/top-langs/?username=matthieu-vagnon&layout=compact&hide_title=true&theme=swift&border_radius=5&hide_border=true&langs_count=4" />
 </div>
 
 ---
