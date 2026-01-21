@@ -1,13 +1,13 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieu-vagnon&layout=donut-vertical&hide_title=true&theme=swift&border_radius=25&hide_border=true" />
-
 <div align="center">
-  <img height="180" src="https://i.pinimg.com/originals/e9/26/16/e9261611196ebd98b2d76ab0627699a0.gif"  />
+  <img height="180" src="https://i.pinimg.com/originals/e9/26/16/e9261611196ebd98b2d76ab0627699a0.gif" />
 </div>
-
+<br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
 Grab a coffee and see how I contribute to the society.</p>
-
-<br clear="right" />
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieu-vagnon&layout=compact&hide_title=true&theme=swift&border_radius=5&hide_border=true&langs_count=4" />
+</div>
 
 ---
 
