@@ -18,9 +18,9 @@ Grab a coffee and see how I contribute to the society.</p>
 
 ## 🔗 My Apps
 
-| App | Repository | Model | Description |
+| App | Repository | Technologies | Description |
 | --- | --- | --- | --- |
-| [Personal Dashboard](https://dashboard.mvagnon.dev) | 🫣 Private | Subscription | An AI SaaS built to help freelancers and candidates build a strong audience on LinkedIn and find new opportunities. |
+| [Personal Dashboard](https://dashboard.mvagnon.dev) | Private | Next.js | An AI SaaS built to help freelancers and candidates build a strong audience on LinkedIn and find new opportunities. |
 
 ## 🧠 My (dear) AI workmates
 
