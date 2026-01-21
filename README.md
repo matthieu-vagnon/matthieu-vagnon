@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="https://i.pinimg.com/originals/e9/26/16/e9261611196ebd98b2d76ab0627699a0.gif" />
+  <img height="180" alt="Coffee GIF" src="https://github-readme-stats-matthieu-vagnons-projects.vercel.app/coffee.gif" />
 </div>
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
