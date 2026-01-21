@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="180" alt="Coffee GIF" src="https://github-readme-stats-matthieu-vagnons-projects.vercel.app/coffee.gif" />
+  <img height="180" alt="Coffee GIF" src="https://github-stats-mvagnon.vercel.app/coffee.gif" />
 </div>
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
 Grab a coffee and see how I contribute to the society.</p>
 <br />
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats-matthieu-vagnons-projects.vercel.app/api/top-langs/?username=matthieu-vagnon&layout=compact&hide_title=true&theme=swift&border_radius=5&hide_border=true&langs_count=4" />
+  <img alt="GitHub Stats" src="https://github-stats-mvagnon.vercel.app/api/top-langs/?username=matthieu-vagnon&layout=compact&hide_title=true&theme=swift&border_radius=5&hide_border=true&langs_count=4" />
 </div>
 
 ---
