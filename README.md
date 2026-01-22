@@ -28,7 +28,6 @@ Grab a coffee and see how I contribute to the society.</p>
 | --- | --- |
 | Google Stitch | UI conception. |
 | Claude Code | AI agent in terminal (main agent). |
-| Cursor | AI agent in IDE (secondary agent). |
 | Napkin.ai | Illustrations in documentations. |
 
 ## 🏆 Certifications
