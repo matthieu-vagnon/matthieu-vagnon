@@ -13,6 +13,7 @@ Grab a coffee and see how I contribute to the society.</p>
 
 ## 👨‍💻 Profile
 - Senior Software Engineer
+- Experimented in implementing AI into softwares
 - End-to-end ownership: design → production
 - (Product && Business && UI/UX)-oriented
 
