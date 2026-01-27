@@ -14,7 +14,7 @@ Grab a coffee and see how I contribute to the society.</p>
 ## 👨‍💻 Profile
 - Senior Software Engineer
 - End-to-end ownership: design → production
-- (Product && Business)-oriented
+- (Product && Business && UI/UX)-oriented
 
 ## 🔗 My Apps
 
