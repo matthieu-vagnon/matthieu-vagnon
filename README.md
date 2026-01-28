@@ -27,8 +27,10 @@ Grab a coffee and see how I contribute to the society.</p>
 
 | Tool | Description |
 | --- | --- |
+| Claude API | Top tier AI API. |
+| GitHub Copilot | AI agent in the IDE (mainly used for autocompletion). |
+| OpenCode | AI agents orchestration in the terminal. |
 | Google Stitch | UI conception. |
-| Claude Code | AI agent in terminal (main agent). |
 | Napkin.ai | Illustrations in documentations. |
 
 ## 🏆 Certifications
