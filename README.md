@@ -17,9 +17,7 @@ Grab a coffee and see how I contribute to the society.</p>
 
 ## 🔗 My Apps
 
-| App | Repository | Technologies | Description |
-| --- | --- | --- | --- |
-| [Personal Dashboard](https://dashboard.mvagnon.dev) | Private | Next.js | An AI SaaS built to help freelancers and candidates build a strong audience on LinkedIn and find new opportunities. |
+[![Profile Banner](https://mvagnon-github-readme.vercel.app/assets/banner.png)](https://mvagnon.dev)
 
 ## 🧠 My (dear) AI workmates
 
@@ -41,6 +39,6 @@ Grab a coffee and see how I contribute to the society.</p>
 
 ## ☎️ Contact Me
 
-- By email: <a href="mailto:main.mvagnon@icloud.com">main.mvagnon@icloud.com</a>
-- On LinkedIn: <a href="https://linkedin.com/in/matthieu-vagnon">in/matthieu-vagnon</a>
-- By video call: <a href="https://cal.com/matthieu-vagnon">cal.com/matthieu-vagnon</a>
+- By email: [main.mvagnon@icloud.com](mailto:main.mvagnon@icloud.com)
+- On LinkedIn: [in/matthieu-vagnon](in/matthieu-vagnon)
+- By video call: [cal.com/matthieu-vagnon](cal.com/matthieu-vagnon)
