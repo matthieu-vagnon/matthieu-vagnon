@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" alt="Coffee GIF" src="https://mvagnon-github-readme.vercel.app/coffee.gif" />
+  <img height="180" alt="Coffee GIF" src="https://mvagnon-github-readme.vercel.app/assets/coffee.gif" />
 </div>
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
@@ -13,10 +13,7 @@ Grab a coffee and see how I contribute to the society.</p>
 
 ## 👨‍💻 Profile
 
-- Senior Software Engineer
-- Experimented in implementing AI into softwares
-- End-to-end ownership: design → production
-- (Product && Business && UI/UX)-oriented
+![Profile Illustration](https://mvagnon-github-readme.vercel.app/assets/profile.png)
 
 ## 🔗 My Apps
 
