@@ -12,6 +12,7 @@ Grab a coffee and see how I contribute to the society.</p>
 ---
 
 ## 👨‍💻 Profile
+
 - Senior Software Engineer
 - Experimented in implementing AI into softwares
 - End-to-end ownership: design → production
@@ -42,7 +43,8 @@ Grab a coffee and see how I contribute to the society.</p>
 | Meta | Advanced React | 97% |
 
 ## ☎️ Contact Me
-- By email: mvagnon@icloud.com
-- By phone: +81 70 9099 7140
-- On LinkedIn
-- By video call: cal.com/matthieu-vagnon
+
+- By email: <a href="mailto:main.mvagnon@icloud.com">main.mvagnon@icloud.com</a>
+- By phone: <a href="tel:+817090997140">+81 70 9099 7140</a>
+- On LinkedIn: <a href="https://linkedin.com/in/matthieu-vagnon">in/matthieu-vagnon</a>
+- By video call: <a href="https://cal.com/matthieu-vagnon">cal.com/matthieu-vagnon</a>
