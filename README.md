@@ -42,6 +42,6 @@ Grab a coffee and see how I contribute to the society.</p>
 ## ☎️ Contact Me
 
 - By email: <a href="mailto:main.mvagnon@icloud.com">main.mvagnon@icloud.com</a>
-- By phone: <a href="tel:+817090997140">+81 70 9099 7140</a>
+- By phone: +81 70 9099 7140
 - On LinkedIn: <a href="https://linkedin.com/in/matthieu-vagnon">in/matthieu-vagnon</a>
 - By video call: <a href="https://cal.com/matthieu-vagnon">cal.com/matthieu-vagnon</a>
