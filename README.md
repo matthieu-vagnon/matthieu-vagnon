@@ -11,7 +11,9 @@ Grab a coffee and see how I contribute to the society.</p>
 
 ---
 
-## Current Open Source Projects
+## Current Projects
+
+- [x] ✍️ **Personal Dashboard** - AI-powered SaaS supporting developers to get opportunities.
 
 [All my projects](https://mvagnon.dev)
 
