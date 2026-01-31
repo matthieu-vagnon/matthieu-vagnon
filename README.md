@@ -11,25 +11,21 @@ Grab a coffee and see how I contribute to the society.</p>
 
 ---
 
-## 👨‍💻 Profile
+## Current Projects
 
-![Profile Illustration](https://mvagnon-github-readme.vercel.app/assets/profile.png)
+[All my projects](https://mvagnon.dev)
 
-## 🌐 Current Projects
-
-[❤️ Discover my Projects](https://mvagnon.dev)
-
-## 🧠 My (dear) AI workmates
+## AI-assisted Workflow
 
 | Tool | Description |
 | --- | --- |
 | Claude API | Top tier AI API. |
 | GitHub Copilot | AI agent in the IDE (mainly used for autocompletion). |
-| OpenCode | AI agents orchestration in the terminal. |
+| OpenCode | AI agents orchestration in the terminal. [Check out my OpenCode workflow!](https://github.com/matthieu-vagnon/opencode-workflow) |
 | Google Stitch | UI conception. |
 | Napkin.ai | Illustrations in documentations. |
 
-## 🏆 Certifications
+## Tech Certifications
 
 | Provider | Certification | Result |
 | --- | --- | ---|
@@ -37,7 +33,7 @@ Grab a coffee and see how I contribute to the society.</p>
 | Google | Build Dynamic User Interfaces (UI) for Websites | 90% |
 | Meta | Advanced React | 97% |
 
-## ☎️ Contact Me
+## Contact Me
 
 - By email: [main.mvagnon@icloud.com](mailto:main.mvagnon@icloud.com)
 - On LinkedIn: [in/matthieu-vagnon](in/matthieu-vagnon)
