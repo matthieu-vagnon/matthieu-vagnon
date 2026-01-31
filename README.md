@@ -15,9 +15,9 @@ Grab a coffee and see how I contribute to the society.</p>
 
 ![Profile Illustration](https://mvagnon-github-readme.vercel.app/assets/profile.png)
 
-## 🔗 My Apps
+## 🌐 Current Projects
 
-[![Profile Banner](https://mvagnon-github-readme.vercel.app/assets/banner.png)](https://mvagnon.dev)
+[❤️ Discover my Projects](https://mvagnon.dev)
 
 ## 🧠 My (dear) AI workmates
 
