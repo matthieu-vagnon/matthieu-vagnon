@@ -11,7 +11,7 @@ Grab a coffee and see how I contribute to the society.</p>
 
 ---
 
-## Current Projects
+## Current Open Source Projects
 
 [All my projects](https://mvagnon.dev)
 
